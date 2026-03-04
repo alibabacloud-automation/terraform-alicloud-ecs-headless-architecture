@@ -109,7 +109,7 @@ module "headless_architecture" {
 
 | Name | Version |
 |------|---------|
-| <a name="provider_alicloud"></a> [alicloud](#provider\_alicloud) | 1.271.0 |
+| <a name="provider_alicloud"></a> [alicloud](#provider\_alicloud) | >= 1.131.0 |
 
 ## Modules
 
